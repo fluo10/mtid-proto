@@ -3,5 +3,5 @@ package mtid;
 
 // Single size Triplet ID message
 message Stid {
-    uint32 id = 1;
+    uint32 value = 1;
 }

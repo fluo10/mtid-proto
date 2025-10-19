@@ -3,5 +3,5 @@ package mtid;
 
 // Quadruple size Triplet ID message
 message Qtid {
-    uint64 id = 1;
+    uint64 value = 1;
 }
